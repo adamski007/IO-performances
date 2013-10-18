@@ -1,4 +1,4 @@
-The aims of this project is to log information about IO on filesystem, disks and files on zpool.
+The aims of this project is to log information about IO on system, disks and files on zpool.
 This way, you can have a global view of all I/O occuring on your zpool. By better understanding the 
 load, you can increase performance by tuning it.
 
