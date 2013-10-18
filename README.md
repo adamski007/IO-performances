@@ -17,7 +17,7 @@ You can find also distribution of read/write time on :
 you can see also distribution for disks but no distinction is made between read/write.
 
 Usage :
-./io-performances.d TOTAL_TIME
+	./io-performances.d TOTAL_TIME
 
 Example :
 ./io-performances.d 60
