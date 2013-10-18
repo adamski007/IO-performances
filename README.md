@@ -20,5 +20,5 @@ Usage :
 * ./io-performances.d TOTAL_TIME
 
 Example :
-./io-performances.d 60
-	-> The script will run for a total of 60 minutes.
+* ./io-performances.d 60
+Meaning the script will run for a total of 60 minutes.
