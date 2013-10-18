@@ -19,7 +19,7 @@ You can find also distribution of read/write time on :
 you can see also distribution for disks but no distinction is made between read/write.
 
 # Important
-You need to customize the script with your need, I mean to put there the name of your filesystem that you want to be monitored, and the pid of the zpool where the filesystems are. As from lines 41 and 71.
+You need to customize the script with your need, I mean to put there the name of your filesystem that you want to be monitored, and the pid of the zpool where the filesystems are. As from lines 41 and 71 in the script.
 
 Usage :
 * ./io-performances.d TOTAL_TIME
